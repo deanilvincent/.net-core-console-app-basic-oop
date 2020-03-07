@@ -1,0 +1,11 @@
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/bin/Debug/netcoreapp3.1/test01
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/bin/Debug/netcoreapp3.1/test01.deps.json
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/bin/Debug/netcoreapp3.1/test01.runtimeconfig.json
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/bin/Debug/netcoreapp3.1/test01.runtimeconfig.dev.json
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/bin/Debug/netcoreapp3.1/test01.dll
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/bin/Debug/netcoreapp3.1/test01.pdb
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/obj/Debug/netcoreapp3.1/test01.csprojAssemblyReference.cache
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/obj/Debug/netcoreapp3.1/test01.AssemblyInfoInputs.cache
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/obj/Debug/netcoreapp3.1/test01.AssemblyInfo.cs
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/obj/Debug/netcoreapp3.1/test01.dll
+/Users/dv/Documents/Development/dotnetconsoleapps/test01/obj/Debug/netcoreapp3.1/test01.pdb
